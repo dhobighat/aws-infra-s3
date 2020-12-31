@@ -4,5 +4,5 @@ variable "aws_region" {
 }
 
 variable "website_bucket_name" {
-  default = "react-dashboard-app"
+  default = "aws-dev-dashboard"
 }
