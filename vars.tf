@@ -4,5 +4,5 @@ variable "aws_region" {
 }
 
 variable "website_bucket_name" {
-  default = "aws-dev-dashboard"
+  default = "dhobighat-dev"
 }
